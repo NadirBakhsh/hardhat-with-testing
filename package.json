@@ -1,0 +1,16 @@
+{
+  "name": "pro-one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "contracts-test": "npx hardhat test"
+  },
+  "author": "nadir4k2010@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.1",
+    "hardhat": "^2.12.6"
+  }
+}
