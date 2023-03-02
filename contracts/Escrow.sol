@@ -95,3 +95,4 @@ contract Escrow {
         return address(this).balance;
     }
 }
+
